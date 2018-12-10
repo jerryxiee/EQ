@@ -1,0 +1,170 @@
+[DebugChecksum]
+Checksum=-1016329895
+[Exceptions]
+StopOnUncaught=_ 0
+StopOnThrow=_ 0
+[DisAssemblyWindow]
+NumStates=_ 1
+State 1=_ 0
+[InstructionProfiling]
+Enabled=_ 0
+[CodeCoverage]
+Enabled=_ 0
+[StackPlugin]
+Enabled=1
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnHow=0
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[SWOTraceHWSettings]
+CpuClock=72000000
+ClockAutoDetect=0
+ClockWanted=2000000
+JtagSpeed=2000000
+Prescaler=36
+TimeStampPrescIndex=0
+TimeStampPrescData=0
+PcSampCYCTAP=1
+PcSampPOSTCNT=15
+PcSampIndex=0
+DataLogMode=0
+ITMportsEnable=0
+ITMportsTermIO=0
+ITMportsLogFile=0
+ITMlogFile=$PROJ_DIR$\ITM.log
+OverrideDefaultClocks=0
+[JLinkDriver]
+WatchCond=_ 0
+Watch0=_ 0 "" 0 "" 0 "" 0 "" 0 0 0 0
+Watch1=_ 0 "" 0 "" 0 "" 0 "" 0 0 0 0
+TraceBufferSize=0x00010000
+TraceStallIfFIFOFull=0x00000000
+TracePortSize=0x00000004
+[Interrupts]
+Enabled=1
+[MemoryMap]
+Enabled=0
+Base=0
+UseAuto=0
+TypeViolation=1
+UnspecRange=1
+ActionState=1
+[TraceHelper]
+Enabled=0
+ShowSource=1
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[TraceHelperExtra]
+Enabled=0
+ShowSource=1
+[Breakpoints]
+Bp0=_ "STD_CODE" "{F:\SVN\HB-EGS701Ⅲ_EQ\FW\src\app\src\user\Sleep.c}.94.26@1" 0 0 0 0 "" 0 "" 0
+Bp1=_ "STD_CODE" "{F:\SVN\HB-EGS701Ⅲ_EQ\FW\src\app\src\user\NaviLcd.c}.1077.9@1" 0 0 0 0 "" 0 "" 0
+Bp2=_ "STD_CODE" "{F:\SVN\HB-EGS701Ⅲ_EQ\trunk\FW\src\app\src\user\NaviLcd.c}.1077.9@1" 0 0 0 0 "" 0 "" 0
+Bp3=_ "STD_CODE" "{F:\SVN\HB-EGS701Ⅲ_EQ\trunk\FW\src\app\src\user\Can_ErQi.c}.133.25@1" 0 0 0 0 "" 0 "" 0
+Bp4=_ "STD_CODE" "{F:\SVN\HB-EGS701Ⅲ_EQ\trunk\FW\src\app\src\user\Camera_App.c}.1144.4@1" 0 0 0 0 "" 0 "" 0
+Count=5
+[CallStack]
+ShowArgs=0
+[Disassembly]
+MixedMode=1
+[PowerLog]
+LogEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+ShowTimeSum=0
+Title0=I0
+Setup0=0 1 0 500 2 0 4 0 0
+Title1=Power [mA]
+Setup1=0 1 0 500 2 0 4 1 0
+LiveEnabled=0
+LiveFile=PowerLogLive.log
+[DataLog]
+LogEnabled=0
+SumEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+ShowTimeSum=1
+[EventLog]
+LogEnabled=0
+SumEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+ShowTimeSum=1
+Title0=ITM1
+Setup0=1 1 1 1
+Title1=ITM2
+Setup1=1 1 1 1
+Title2=ITM3
+Setup2=1 1 1 1
+Title3=ITM4
+Setup3=1 1 1 1
+SumSortOrder=0
+[InterruptLog]
+LogEnabled=0
+SumEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+ShowTimeSum=1
+SumSortOrder=0
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[Trace1]
+Enabled=0
+ShowSource=1
+[Trace2]
+Enabled=0
+[SWOTraceWindow]
+PcSampling=0
+InterruptLogs=0
+ForcedTimeStamps=0
+EventCPI=0
+EventEXC=0
+EventFOLD=0
+EventLSU=0
+EventSLEEP=0
+[PowerProbe]
+Frequency=10000
+Probe0=I0
+ProbeSetup0=2 1 1 2 0 0
+[CallStackLog]
+Enabled=0
+[DriverProfiling]
+Enabled=0
+Mode=3
+Graph=0
+Symbiont=0
+Exclusions=
+[Disassemble mode]
+mode=0
+[Breakpoints2]
+Bp0=_ 0 "EMUL_CODE" "{$PROJ_DIR$\..\src\user\RecTravel.c}.1566.5" 0 0 1 "" 0 "" 0
+Bp1=_ 0 "EMUL_CODE" "{$PROJ_DIR$\..\src\user\mmc_sd.c}.225.5" 0 0 1 "" 0 "" 0
+Bp2=_ 1 "EMUL_CODE" "{$PROJ_DIR$\..\src\user\SystemInit.c}.399.2" 0 0 1 "" 0 "" 0
+Count=3
+[Aliases]
+A0=_ "D:\work\行标产品\改进版一体机\源程序\HB-EGS701\lib\STM32F2xx_StdPeriph_Driver\V1.0.0\src\stm32f2xx_gpio.c" ""
+A1=_ "D:\work\行标产品\改进版一体机\源程序\HB-EGS701\lib\STM32F2xx_StdPeriph_Driver\V1.0.0\src\stm32f2xx_usart.c" ""
+A2=_ "D:\work\行标产品\改进版一体机\源程序\HB-EGS701\src\app\src\user\printer\printer.c" ""
+A3=_ "D:\产品\EGS701\改进型EGS701-1\改进型EGS701-1\STM32F2xx\STM32F2xx\Project\EGS701B\EGS701_2X\user\main.c" ""
+A4=_ "D:\产品\EGS701\改进型EGS701-1\改进型EGS701-1\STM32F2xx\STM32F2xx\Project\EGS701B\EGS701_2X\user\position.c" ""
+A5=_ "E:\EGS701源码\HB-EGS701_0815\HB-EGS701\src\app\src\user\main.c" ""
+Count=6
+SuppressDialog=1

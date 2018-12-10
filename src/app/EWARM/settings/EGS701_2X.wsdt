@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>EGS701_2X/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>225</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>552</ColumnWidth1><ColumnWidth2>147</ColumnWidth2><ColumnWidth3>36</ColumnWidth3></Build>
+    <TerminalIO/><Debug-Log><ColumnWidth0>19</ColumnWidth0><ColumnWidth1>1542</ColumnWidth1></Debug-Log></Static>
+    <Windows>
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-9070-5803</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>EGS701_2X</ExpandedNode><ExpandedNode>EGS701_2X/CMSIS</ExpandedNode><ExpandedNode>EGS701_2X/User</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-18250-5835</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-17749-5724</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\src\user\modem\app\modem_app_first.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\src\user\Module_IC_Card\Module_IC_Card.c</Filename><XPos>0</XPos><YPos>336</YPos><SelStart>10359</SelStart><SelEnd>10359</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\src\user\Report.c</Filename><XPos>0</XPos><YPos>98</YPos><SelStart>4344</SelStart><SelEnd>4344</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\src\user\speedmonitor.c</Filename><XPos>0</XPos><YPos>631</YPos><SelStart>20332</SelStart><SelEnd>20332</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\src\user\Public.c</Filename><XPos>0</XPos><YPos>865</YPos><SelStart>24558</SelStart><SelEnd>24558</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\src\user\tireddrive.c</Filename><XPos>0</XPos><YPos>375</YPos><SelStart>13662</SelStart><SelEnd>13662</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\src\user\RecTravel.c</Filename><XPos>0</XPos><YPos>1553</YPos><SelStart>40261</SelStart><SelEnd>40261</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\src\user\Lcd.C</Filename><XPos>0</XPos><YPos>1143</YPos><SelStart>38016</SelStart><SelEnd>38016</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\src\user\TaskMenu.c</Filename><XPos>0</XPos><YPos>6580</YPos><SelStart>164424</SelStart><SelEnd>164424</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\src\user\E2ParamApp.c</Filename><XPos>0</XPos><YPos>1134</YPos><SelStart>44149</SelStart><SelEnd>44149</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\src\user\RadioProtocol.c</Filename><XPos>0</XPos><YPos>3001</YPos><SelStart>77244</SelStart><SelEnd>77244</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\src\driver\stm32f2xx_it.c</Filename><XPos>0</XPos><YPos>701</YPos><SelStart>20556</SelStart><SelEnd>20556</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\src\user\Acceleration.c</Filename><XPos>0</XPos><YPos>208</YPos><SelStart>4894</SelStart><SelEnd>4894</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\src\user\Pulse_App.c</Filename><XPos>0</XPos><YPos>98</YPos><SelStart>2990</SelStart><SelEnd>2990</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\src\driver\Io.c</Filename><XPos>0</XPos><YPos>927</YPos><SelStart>24066</SelStart><SelEnd>24066</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\src\user\timer.c</Filename><XPos>0</XPos><YPos>367</YPos><SelStart>11166</SelStart><SelEnd>11166</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\src\user\other.c</Filename><XPos>0</XPos><YPos>1388</YPos><SelStart>43111</SelStart><SelEnd>43111</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\src\user\NaviLcd.c</Filename><XPos>0</XPos><YPos>1012</YPos><SelStart>36066</SelStart><SelEnd>36066</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\src\user\Module_IC_Card\Module_IC_Card_EEYE.c</Filename><XPos>0</XPos><YPos>1376</YPos><SelStart>44134</SelStart><SelEnd>44134</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\src\user\Module_IC_Card\Module_IC_Card_JTB.c</Filename><XPos>0</XPos><YPos>1253</YPos><SelStart>41127</SelStart><SelEnd>41127</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\src\user\main.c</Filename><XPos>0</XPos><YPos>90</YPos><SelStart>2646</SelStart><SelEnd>2646</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\lib\USB\USB_Lib\Library\Class\MSC\src\usbh_msc_fatfs.c</Filename><XPos>0</XPos><YPos>214</YPos><SelStart>6697</SelStart><SelEnd>6697</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\src\user\mmc_sd.c</Filename><XPos>0</XPos><YPos>559</YPos><SelStart>14265</SelStart><SelEnd>14265</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\src\driver\spi_flash.c</Filename><XPos>0</XPos><YPos>444</YPos><SelStart>15049</SelStart><SelEnd>15049</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\lib\CMSIS\V1.0.0\CM3\CoreSupport\core_cm3.h</Filename><XPos>0</XPos><YPos>1143</YPos><SelStart>70850</SelStart><SelEnd>70850</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\src\user\SystemInit.c</Filename><XPos>0</XPos><YPos>385</YPos><SelStart>8633</SelStart><SelEnd>8633</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\lib\STM32F2xx_StdPeriph_Driver\V1.0.0\src\stm32f2xx_rcc.c</Filename><XPos>0</XPos><YPos>865</YPos><SelStart>37491</SelStart><SelEnd>37491</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\lib\CMSIS\V1.0.0\CM3\DeviceSupport\ST\STM32F2xx\system_stm32f2xx.c</Filename><XPos>0</XPos><YPos>331</YPos><SelStart>13379</SelStart><SelEnd>13379</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\src\user\Gps_App.c</Filename><XPos>0</XPos><YPos>1401</YPos><SelStart>34708</SelStart><SelEnd>34708</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\lib\USB\FAT_FS\src\ff.c</Filename><XPos>0</XPos><YPos>3569</YPos><SelStart>121398</SelStart><SelEnd>121398</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\lib\STM32F2xx_StdPeriph_Driver\V1.0.0\src\stm32f2xx_spi.c</Filename><XPos>0</XPos><YPos>1018</YPos><SelStart>40034</SelStart><SelEnd>40034</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\src\user\Media.c</Filename><XPos>0</XPos><YPos>373</YPos><SelStart>8854</SelStart><SelEnd>8854</SelEnd></Tab><ActiveTab>31</ActiveTab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-02720060><key>iaridepm.enu1</key></Toolbar-02720060></Sizes></Row0></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>572</Bottom><Right>316</Right><x>-2</x><y>-2</y><xscreen>244</xscreen><yscreen>148</yscreen><sizeHorzCX>152500</sizeHorzCX><sizeHorzCY>180929</sizeHorzCY><sizeVertCX>198750</sizeVertCX><sizeVertCY>701711</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>201</Bottom><Right>1602</Right><x>-2</x><y>-2</y><xscreen>1604</xscreen><yscreen>203</yscreen><sizeHorzCX>1002500</sizeHorzCX><sizeHorzCY>248166</sizeHorzCY><sizeVertCX>152500</sizeVertCX><sizeVertCY>180929</sizeVertCY></Rect></Wnd1></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
